@@ -26,9 +26,9 @@ passport.deserializeUser(async (id, done) => {
 
 passport.use(
     new Strategy(
-        {
-            clientID: "870307411670692",
-            clientSecret: "3126a06bb95bc2e9757006892294547f",
+        {    
+            clientID: "XXXXXXXXXXXXXXX",
+            clientSecret: "XXXXXXXXXXXXXXXXXXXX",
             callbackURL: "http://localhost:4000/api/auth/facebook/redirect",
             profileFields: ["id", "name"] // Include username field
         },
