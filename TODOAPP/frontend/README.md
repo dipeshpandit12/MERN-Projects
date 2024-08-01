@@ -1,4 +1,4 @@
-This is my first MERN Project. I have named this as TODO APP which includes everthing from data inserting to database to CRUD operation and Third party login authentication. All the web app is fully responsive.
+This is my first MERN Project. I have named this as "TODO APP" where we can do signup, login and CRUD operation. All the operations will be saved to database automatically. I have also included third party authentication with Facebook, Google and Discord where their session datas will be stored for max 1 hours.
 
 -------------------------------------------------------
 
@@ -7,6 +7,7 @@ Backend :Express.js
 Database: MongoDB
 
 -------------------------------------------------------
+Demo:
 
 ![alt text](image-1.png)
 ![alt text](image.png)
