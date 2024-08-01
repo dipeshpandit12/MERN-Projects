@@ -2,9 +2,9 @@ This is my first MERN Project. I have named this a "TODO LIST" where we can sign
 
 -------------------------------------------------------
 
-Frontend: React.js with Chakra UI
-Backend:Express.js
-Database: MongoDB
+Frontend: React.js with Chakra UI<br>
+Backend:Express.js<br>
+Database: MongoDB<br>
 
 -------------------------------------------------------
 Demo:
