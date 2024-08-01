@@ -21,8 +21,8 @@ passport.deserializeUser(async (id, done) => {
 });
 
 passport.use(new Strategy({
-    clientID: "1034322614392-ia7p72dhktqmfuqd5hfvvsucv8rjvu2b.apps.googleusercontent.com",
-    clientSecret: "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",
+    clientID: "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+    clientSecret: "XXXXXXXXXXXXXXXXXXXXXXXXXXX",
     callbackURL: "http://localhost:4000/api/auth/google/redirect",
     scope: ['profile'] // Request profile information
 }, async (accessToken, refreshToken, profile, done) => {
